@@ -43,8 +43,24 @@
 </script>
 
 <style scoped>
+.preview-container {
+  margin-top: 40px;
+  padding: 25px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+  font-size: 1.5rem;
+}
+
+
   .preview-container {
-    margin-top: 40px;
+    margin-top: 20px;
     padding: 20px;
   }
 
